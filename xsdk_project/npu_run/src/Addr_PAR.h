@@ -3,7 +3,7 @@
 
 #define REG_BASE_ADDR 0x43C00000
 
-#define RESNET
+#define DCGAN
 
 #ifdef LSTM
     #define DATA_ADDR_START     0x30000000

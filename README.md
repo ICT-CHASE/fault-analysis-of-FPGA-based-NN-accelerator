@@ -1,4 +1,4 @@
-ZC706-DNNFaultAnalysis
+Persistent fault analysis on FPGA based DNN acceleration system
 ========================
 FPGA-based DNN fault analysis tool deployed on Xilinx ZC706 evaluation board.
 

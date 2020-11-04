@@ -35,14 +35,4 @@ Prior works typically conducted the fault analysis of neural network accelerator
 # Reference
 [1] Dawen Xu, Ziyang Zhu, Cheng Liu*, Ying Wang, Huawei Li, Lei Zhang, Kwang-Ting Cheng, Persistent Fault Analysis of Neural Networks on FPGA-based Acceleration System, The 31th IEEE International Conference on Application-specific Systems, Architectures and Processors (ASAP), July, 2020
 
-Bib citation
-@INPROCEEDINGS{Dawenxu2020persistent,
-  author={D. {Xu} and Z. {Zhu} and C. {Liu} and Y. {Wang} and H. {Li} and L. {Zhang} and K. {Cheng}},
-  booktitle={2020 IEEE 31st International Conference on Application-specific Systems, Architectures and Processors (ASAP)}, 
-  title={Persistent Fault Analysis of Neural Networks on FPGA-based Acceleration System}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={85-92},
-  doi={10.1109/ASAP49362.2020.00024}}
 ----------------------------------------
